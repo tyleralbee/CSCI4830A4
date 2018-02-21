@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 20px;
+}
+
+
+#alert {
+    border: 2px solid black;
+    background: red;
+    padding: 6px;
+    display: none;
+}
